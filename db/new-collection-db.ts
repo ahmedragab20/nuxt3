@@ -1,0 +1,38 @@
+export default [
+  {
+    id: 1,
+    name: "Black T-Shirt",
+    price: 9.99,
+    description: "A black t-shirt with a great design and quality",
+    image: "/images/collection/black-shirt.jpg",
+    mainColor: "black",
+    tailwindTextColor: "text-black",
+  },
+  {
+    id: 2,
+    name: "Blue T-Shirt",
+    price: 8.78,
+    description: "A Blue t-shirt with a great design and quality",
+    image: "/images/collection/blue-shirt.jpg",
+    mainColor: "blue",
+    tailwindTextColor: "text-blue-500",
+  },
+  {
+    id: 3,
+    name: "Dark Blue T-Shirt",
+    price: 11.99,
+    description: "A Dark-Blue t-shirt with a great design and quality",
+    image: "/images/collection/dark-blue-shirt.jpg",
+    mainColor: "dark-blue",
+    tailwindTextColor: "text-blue-800",
+  },
+  {
+    id: 4,
+    name: "Pink T-Shirt",
+    price: 10.54,
+    description: "A Pink t-shirt with a great design and quality",
+    image: "/images/collection/pink-shirt.jpg",
+    mainColor: "pink",
+    tailwindTextColor: "text-pink-500",
+  },
+];
